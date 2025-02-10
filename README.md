@@ -18,7 +18,7 @@ HTML5 | CSS3 | JavaScript | React | Vue.js | Quasar | Node.js | Express.js | Boo
 
 📊 GitHub Stats:
 
-![Bhramarambha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhramarambha&show_icons=true&theme=radical)
+![Bhramarambha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhramarambha8660&show_icons=true&theme=radical)
 
 
 GitHub Streak:
@@ -28,4 +28,4 @@ GitHub Streak:
 
 Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhramarambha&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhramarambha8660&layout=compact&theme=radical)
