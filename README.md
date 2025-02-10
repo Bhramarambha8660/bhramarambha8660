@@ -9,11 +9,23 @@
 🌐 Socials:
 
 Instagram | LinkedIn
+
+
 💻 Tech Stack:
 
 HTML5 | CSS3 | JavaScript | React | Vue.js | Quasar | Node.js | Express.js | Bootstrap | TailwindCSS | Git | Postman | MongoDB | MySQL | Adobe Photoshop
+
+
 📊 GitHub Stats:
 
-(Add your GitHub profile stats or keep it minimal depending on preference)
+![Bhramarambha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhramarambha&show_icons=true&theme=radical)
 
-Let me know if you'd like to add or modify anything further! 😊
+
+GitHub Streak:
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bhramarambha&theme=radical)
+
+
+Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhramarambha&layout=compact&theme=radical)
