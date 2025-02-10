@@ -8,12 +8,13 @@
 ⚡ Exploring and innovating with new frameworks and tools to expand my skill set.
 🌐 Socials:
 
-Instagram | LinkedIn
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chandana_bhramara?igsh=YXhtM253M2Nob2h1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhramarambha-c-b-5a565a275/)
 
 
 💻 Tech Stack:
 
-HTML5 | CSS3 | JavaScript | React | Vue.js | Quasar | Node.js | Express.js | Bootstrap | TailwindCSS | Git | Postman | MongoDB | MySQL | Adobe Photoshop
+HTML5 | CSS3 | JavaScript | React | Vue.js | Quasar | Bootstrap | TailwindCSS | Git  | MongoDB 
 
 
 📊 GitHub Stats:
@@ -23,7 +24,7 @@ HTML5 | CSS3 | JavaScript | React | Vue.js | Quasar | Node.js | Express.js | Boo
 
 GitHub Streak:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bhramarambha&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bhramarambha8660&theme=radical)
 
 
 Top Languages:
