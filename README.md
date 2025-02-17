@@ -31,7 +31,7 @@
 
 GitHub Streak:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bhramarambha8660&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bhramarambha8660&theme=radical&cache-bust=1)
 
 Top Languages:
 
